@@ -9,6 +9,12 @@ Neural network is used as a decision model of the car. This neural network is tr
 
 - Neural network is trained by genetic algorithm. The car learns how to drive without external data.
 
+The results are summarized and discussed in the following [report](https://github.com/KristianZarn/Smar-Car/blob/master/report.pdf)
+
+## Video
+
+The following video demonstrated the results of this project. (click on the image below)
+
 ## Project structure
 
 - "matlab" folder: Contains matlab code used to train the neural network on data collected by manual driving
